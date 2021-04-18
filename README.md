@@ -5,7 +5,7 @@ A curated list of dedicated resources to research 3D monocular object detection.
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mheriyanto/awesome-monocular-3d-detectors/issues)
 ![GitHub contributors](https://img.shields.io/github/contributors/mheriyanto/awesome-monocular-3d-detectors.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mheriyanto/awesome-monocular-3d-detectors)
-[![HitCount](http://hits.dwyl.com/mheriyanto/awesome-monocular-3d-detectors.svg)](http://hits.dwyl.com/mheriyanto/awesome-monocular-3d-detectors)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmheriyanto%2Fawesome-monocular-3d-detectors&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://id.linkedin.com/in/mheriyanto)
 
 _Update Notes_
@@ -21,10 +21,10 @@ _Update Notes_
 | [**D4LCN**](https://arxiv.org/abs/1912.04799) | 1912 | **3.42** | --- | --- | --- | [0.2 s](https://github.com/dingmyu/D4LCN) | GPU @ 2.5 Ghz (Python + C/C++) |
 | [**Deep3DBox**](https://arxiv.org/abs/1612.00496) | 1612 (CVPR 2017) | --- | --- | Deep3DBox | MS-CNN | --- | --- |
 | [**Mono3D**](https://www.cs.toronto.edu/~urtasun/publications/chen_etal_cvpr16.pdf) | 1512 (CVPR 2016) | --- | --- | Mono3D | Faster RCNN | --- | --- |
-| [**CenterNet**](https://arxiv.org/abs/1904.07850) | 1904 | --- | --- | CenterNet | DLA (Unet) | --- | --- |
-| [**MonoDIS**](https://arxiv.org/abs/1905.12365) | 1905 (ICCV 2019) | --- | --- | MonoGRNet | RetinaNet+2D/3D head | --- | --- |
+| [**CenterNet**](https://arxiv.org/abs/1904.07850) | 1904 | --- | 0.338 | CenterNet | DLA (Unet) | --- | --- |
+| [**MonoDIS**](https://arxiv.org/abs/1905.12365) | 1905 (ICCV 2019) | --- | 0.304 | MonoGRNet | RetinaNet+2D/3D head | --- | --- |
 
 ## References
 + 2019-11-26 [Review of Monocular 3D Object Detection](https://github.com/patrick-llgc/Learning-Deep-Learning/blob/master/paper_notes/review_mono_3dod.md): [towarddatascience](https://towardsdatascience.com/monocular-3d-object-detection-in-autonomous-driving-2476a3c7f57e?source=friends_link&sk=160d236be1881b6ee1b431a943666fdb) and google [spreadsheet](https://docs.google.com/spreadsheets/d/1X_ViM-W4QbHPbJ2dHouRgkRAyzEnBS6J_9VxPEXvDM4/edit#gid=0).
 + KITTI Dataset Leaderboard: [Official](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) | [PaperwithCode](https://paperswithcode.com/sota/3d-object-detection-on-kitti-cars-moderate)
-+ nuScenes Dataset Leaderboard: [Official](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Any) | [PaperwithCode](https://paperswithcode.com/sota/3d-object-detection-on-nuscenes)
++ nuScenes Dataset Leaderboard: [Official](https://www.nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Camera) | [PaperwithCode](https://paperswithcode.com/sota/3d-object-detection-on-nuscenes)
