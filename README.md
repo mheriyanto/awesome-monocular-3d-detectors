@@ -1,14 +1,13 @@
 # awesome-monocular-3d-detectors
 A curated list of dedicated resources to research 3D monocular object detection. Mostly resources is cloned from *Review of Monocular 3D Object Detection* by [**@patrick-llgc**](https://github.com/patrick-llgc/Learning-Deep-Learning/blob/master/paper_notes/review_mono_3dod.md) and *Awesome Monocular 3D Detection* by [**@BigTeacher-777**](https://github.com/BigTeacher-777/Awesome-Monocular-3D-detection).
 
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mheriyanto/awesome-monocular-3d-detectors/issues)
 ![GitHub contributors](https://img.shields.io/github/contributors/mheriyanto/awesome-monocular-3d-detectors.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/mheriyanto/awesome-monocular-3d-detectors)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmheriyanto%2Fawesome-monocular-3d-detectors&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 _Update Notes_
-- 04/18/2021: delete some columns from [original repo](https://github.com/patrick-llgc/Learning-Deep-Learning/blob/master/paper_notes/review_mono_3dod.md) and add some metrics from KITTI & nuScenes dataset.
+- 04/18/2021: delete some columns from [original repository](https://github.com/patrick-llgc/Learning-Deep-Learning/blob/master/paper_notes/review_mono_3dod.md) and add some metrics from KITTI & nuScenes dataset.
 
 | **Nama** | Time (Vanue)  | **KITTI (Moderate)** | **nuScenes (mAP)** | Predecessor | Backbone | **Runtime** | Environtment |
 | --- | ---  | --- | --- | --- | --- | --- | --- |
