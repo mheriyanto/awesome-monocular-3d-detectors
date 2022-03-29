@@ -1,5 +1,5 @@
 # awesome-monocular-3d-detectors
-A curated list of dedicated resources to research 3D monocular object detection. Mostly resources is cloned from *Review of Monocular 3D Object Detection* by [**@patrick-llgc**](https://github.com/patrick-llgc/Learning-Deep-Learning/blob/master/paper_notes/review_mono_3dod.md) and *Awesome Monocular 3D Detection* by [**@BigTeacher-777**](https://github.com/BigTeacher-777/Awesome-Monocular-3D-detection).
+A curated list of dedicated resources to research 3D monocular object detection. Mostly resources is cloned from *Review of Monocular 3D Object Detection* by [**@patrick-llgc**](https://github.com/patrick-llgc/Learning-Deep-Learning/blob/master/paper_notes/review_mono_3dod.md), *Awesome Monocular 3D Detection* by [**@BigTeacher-777**](https://github.com/BigTeacher-777/Awesome-Monocular-3D-detection) and [Google Scholar's index](https://scholar.google.com/scholar?as_vis=1&q=%22monocular+3d%22++detection&hl=en&scisbd=1&as_sdt=0,5). 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mheriyanto/awesome-monocular-3d-detectors/issues)
